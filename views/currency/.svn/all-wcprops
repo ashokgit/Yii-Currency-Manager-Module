@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/trekbooking/!svn/ver/95/trekbooking/trunk/protected/modules/currencymanager/views/currency
+END
+_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/trekbooking/!svn/ver/95/trekbooking/trunk/protected/modules/currencymanager/views/currency/_search.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/trekbooking/!svn/ver/95/trekbooking/trunk/protected/modules/currencymanager/views/currency/update.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/trekbooking/!svn/ver/95/trekbooking/trunk/protected/modules/currencymanager/views/currency/create.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/trekbooking/!svn/ver/96/trekbooking/trunk/protected/modules/currencymanager/views/currency/admin.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/trekbooking/!svn/ver/95/trekbooking/trunk/protected/modules/currencymanager/views/currency/index.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/trekbooking/!svn/ver/95/trekbooking/trunk/protected/modules/currencymanager/views/currency/_form.php
+END
+_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/trekbooking/!svn/ver/95/trekbooking/trunk/protected/modules/currencymanager/views/currency/_view.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/trekbooking/!svn/ver/95/trekbooking/trunk/protected/modules/currencymanager/views/currency/view.php
+END
